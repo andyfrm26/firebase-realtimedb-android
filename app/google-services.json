@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531121722742",
+    "firebase_url": "https://fir-93563-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-93563",
+    "storage_bucket": "fir-93563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531121722742:android:b0b0f4755c403d4b7a5657",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531121722742-5qqlov37kddurmfmal15pbh0q6srbmo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "9e97f11b46eef91ea9d1a7d20da5ca7f8a9e74d7"
+          }
+        },
+        {
+          "client_id": "531121722742-9rmr5hlnjeakm2rhsqje1neqm0s4pfp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvRjgMStqCnoCY90qxTzoVDLMbaZlkK-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531121722742-9rmr5hlnjeakm2rhsqje1neqm0s4pfp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
